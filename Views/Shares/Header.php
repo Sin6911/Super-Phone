@@ -60,9 +60,9 @@
                             <div class="limit-box">
                                 <nav class="main-menu">
                                     <ul class="menu-area-main">
-                                        <li class="active"> <a href="index">Home</a> </li>
-                                        <li> <a href="about">About</a> </li>
-                                        <li><a href="brand">Brand</a></li>
+                                        <li class="active"> <a href="?r=/">Home</a> </li>
+                                        <li> <a href="?r=about">About</a> </li>
+                                        <li><a href="?r=brand">Brand</a></li>
                                         <li><a href="special">Specials</a></li>
                                         <li><a href="contact">Contact Us</a></li>
                                         <li class="last">
