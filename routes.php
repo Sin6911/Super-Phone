@@ -4,9 +4,9 @@ $routes = [
     'controller' => 'HomeController',
     'action' => 'index'
   ],
-  'about' => [
+  'index' => [
     'controller' => 'HomeController',
-    'action' => 'about'
+    'action' => 'home'
   ],
 ];
 ?>
