@@ -4,7 +4,7 @@
 <main id="main" class="main">
 
 <div class="pagetitle">
-  <h1>Trang Chủ</h1>
+  <h1>Ốp Lưng</h1>
 </div>
 
 </main>
